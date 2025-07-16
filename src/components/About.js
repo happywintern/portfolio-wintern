@@ -25,9 +25,9 @@ export default function About() {
       <p className="text-gray-700 max-w-3xl mb-10">
         I&apos;m a Software Engineering student at IPB University, currently in my third year, with a strong interest in both web and mobile development. I specialize in building responsive web applications using Vue.js, Laravel, and Tailwind CSS, as well as mobile apps using Java in Android Studio.
 
-Over the past few years, I&apos;ve worked on various projects — from e-commerce websites and admin dashboards to educational and volunteer-based apps. I'm passionate about crafting user-focused solutions that are both functional and visually intuitive.
+Over the past few years, I&apos;ve worked on various projects — from e-commerce websites and admin dashboards to educational and volunteer-based apps. I&apos;m passionate about crafting user-focused solutions that are both functional and visually intuitive.
 
-As a developer, I enjoy bringing ideas to life with clean code, scalable architecture, and purposeful design — whether it’s for the browser or a mobile screen.
+As a developer, I enjoy bringing ideas to life with clean code, scalable architecture, and purposeful design — whether it&apos;s for the browser or a mobile screen.
       </p>
 
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-6">
