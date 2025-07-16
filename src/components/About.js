@@ -23,7 +23,7 @@ export default function About() {
       </h2>
       <div className="h-1 w-40 bg-black mb-6"></div>
       <p className="text-gray-700 max-w-3xl mb-10">
-        I’m a Software Engineering student at IPB University, currently in my third year, with a strong interest in both web and mobile development. I specialize in building responsive web applications using Vue.js, Laravel, and Tailwind CSS, as well as mobile apps using Java in Android Studio.
+        I&apos;m a Software Engineering student at IPB University, currently in my third year, with a strong interest in both web and mobile development. I specialize in building responsive web applications using Vue.js, Laravel, and Tailwind CSS, as well as mobile apps using Java in Android Studio.
 
 Over the past few years, I’ve worked on various projects — from e-commerce websites and admin dashboards to educational and volunteer-based apps. I'm passionate about crafting user-focused solutions that are both functional and visually intuitive.
 

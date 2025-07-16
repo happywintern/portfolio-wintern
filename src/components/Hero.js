@@ -4,7 +4,7 @@ export default function Hero() {
     <section className="min-h-screen flex items-start px-6 md:px-20 pt-35">
       <div className="max-w-4xl">
         <h2 className="text-sm font-medium tracking-widest text-gray-700 mb-2">
-          Hello, I'm Mutiara
+          Hello, I&apos;m Mutiara
         </h2>
         <h1 className="text-6xl font-bold text-black leading-tight">
           Fullstack <br /> Developer
